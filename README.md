@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zaidshaikh987/zaidshaikh987/main/Images/header-image.gif" alt="Header Image">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=MD.%20Zaid%20Shaikh&fontColor=1d1d1d&fontSize=44&fontAlignY=35" alt="Header" />
 </p>
 
 <div align="center">
@@ -24,7 +24,7 @@ I build production-grade AI features and full‑stack apps with a clean, fast UX
 
 - **AI/ML:** Data → features → models → evaluation → deploy
 - **Frontend:** React + Tailwind, responsive and accessible
-- **Backend:** FastAPI/Node, PostgreSQL/MongoDB, Docker & CI/CD
+- **Backend:** FastAPI/Node, PostgreSQL/MongoDB, Docker • CI/CD
 
 ---
 
@@ -33,6 +33,8 @@ I build production-grade AI features and full‑stack apps with a clean, fast UX
 - **[Auto-Insight](https://github.com/zaidshaikh987/Auto-Insight):** Automated analytics and insight generation using AI.
 - **[Vibe-Coder](https://github.com/zaidshaikh987/Vibe-Coder):** AI-powered collaborative coding and brainstorming.
 - **[Intell-Weave](https://github.com/zaidshaikh987/Intell-Weave):** Intelligent knowledge weaving and semantic search.
+- **[Travel_Portal](https://github.com/zaidshaikh987/Travel_Portal):** Full-stack travel management app.
+
 ---
 
 ## 🔧 Technologies & Tools
@@ -69,43 +71,20 @@ I build production-grade AI features and full‑stack apps with a clean, fast UX
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
 </p>
 
-
-## 📚 Certifications
-
-<span>
-  <img src="https://img.shields.io/badge/Coursera-Machine%20Learning%20Specialization-blue?logo=Coursera&logoColor=white" height="20" />
-  <kbd>Andrew Ng</kbd>
-</span>
-<br>
-<span>
-  <img src="https://img.shields.io/badge/Coursera-Deep%20Learning%20Specialization-blue?logo=Coursera&logoColor=white" height="20" />
-  <kbd>Andrew Ng</kbd>
-</span>
-<br>
-<span>
-  <img src="https://img.shields.io/badge/Coursera-IBM%20Data%20Science%20Professional%20Certificate-blue?logo=IBM&logoColor=white" height="20" />
-  <kbd>IBM</kbd>
-</span>
-<br>
-<span>
-  <img src="https://img.shields.io/badge/Udemy-DS/ML/AI%20Bootcamp-orange?logo=Udemy&logoColor=white" height="20" />
-  <kbd>Krish Naik</kbd>
-</span>
-<br>
-<span>
-  <img src="https://img.shields.io/badge/Udemy-Complete%20Web%20Dev-orange?logo=Udemy&logoColor=white" height="20" />
-  <kbd>Hitesh Choudhary</kbd>
-</span>
-
-<sub>Credential details and links are available on the Certifications page in the portfolio.</sub>
-
 ---
 
-## 📊 GitHub Stats & Activity
+## 📬 Contact
+
+- **LinkedIn:** [your-profile](#)
+- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **GitHub:** [zaidshaikh987](https://github.com/zaidshaikh987)
+
+
+## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidshaikh987&show_icons=true&theme=radical" alt="Zaid's GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidshaikh987&theme=radical" alt="Zaid's GitHub Streak" height="170" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidshaikh987&theme=react-dark" alt="Zaid's Contribution Graph" height="180" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaidshaikh987&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidshaikh987&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
