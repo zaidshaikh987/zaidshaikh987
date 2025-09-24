@@ -1,9 +1,16 @@
-# MD. Zaid Shaikh — AI & Data Science Engineer
+<div align="center">
 
-Building intelligent, data‑driven experiences with solid engineering and delightful UX.  
-I work across the stack: modeling, data pipelines, APIs, and modern front‑end.
+# MD. Zaid Shaikh
+### AI & Data Science Engineer
+
+*Building intelligent, data-driven experiences with solid engineering and delightful UX.*  
+*I work across the stack: modeling, data pipelines, APIs, and modern front-end.*
+
+<br>
 
 [Portfolio](#) • [Resume](#) • [LinkedIn](#) • [Email](mailto:youremail@example.com)
+
+</div>
 
 ---
 
@@ -33,11 +40,11 @@ This profile houses my advanced portfolio of AI/Data Science projects, full‑st
 
 ## 🔥 Top Projects
 
-- [Auto-Insight](https://github.com/zaidshaikh987/Auto-Insight): Automated analytics and insight generation using AI.
-- [Vibe-Coder](https://github.com/zaidshaikh987/Vibe-Coder): AI-powered collaborative coding and brainstorming.
-- [Intell-Weave](https://github.com/zaidshaikh987/Intell-Weave): Intelligent knowledge weaving and semantic search.
-- [Travel_Portal](https://github.com/zaidshaikh987/Travel_Portal): Full-stack travel management app.
-- [Doctor_Patient_chat](https://github.com/zaidshaikh987/Doctor_Patient_chat): Real-time chat platform for healthcare.
+- **[Auto-Insight](https://github.com/zaidshaikh987/Auto-Insight):** Automated analytics and insight generation using AI.
+- **[Vibe-Coder](https://github.com/zaidshaikh987/Vibe-Coder):** AI-powered collaborative coding and brainstorming.
+- **[Intell-Weave](https://github.com/zaidshaikh987/Intell-Weave):** Intelligent knowledge weaving and semantic search.
+- **[Travel_Portal](https://github.com/zaidshaikh987/Travel_Portal):** Full-stack travel management app.
+- **[Doctor_Patient_chat](https://github.com/zaidshaikh987/Doctor_Patient_chat):** Real-time chat platform for healthcare.
 
 ---
 
@@ -182,5 +189,3 @@ npm run build
   <em>Made with React + TypeScript + Tailwind.<br>
   Focused on robust AI engineering and beautiful, fast UX.</em>
 </p>
-#   z a i d s h a i k h 9 8 7  
- 
