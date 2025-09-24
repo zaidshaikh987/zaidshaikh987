@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zaidshaikh987/zaidshaikh987/main/Images/header-image.gif" alt="Header Image">
+</p>
+
 <div align="center">
 
 # MD. Zaid Shaikh
@@ -43,57 +47,44 @@ This profile houses my advanced portfolio of AI/Data Science projects, full‑st
 - **[Auto-Insight](https://github.com/zaidshaikh987/Auto-Insight):** Automated analytics and insight generation using AI.
 - **[Vibe-Coder](https://github.com/zaidshaikh987/Vibe-Coder):** AI-powered collaborative coding and brainstorming.
 - **[Intell-Weave](https://github.com/zaidshaikh987/Intell-Weave):** Intelligent knowledge weaving and semantic search.
+- **[Travel_Portal](https://github.com/zaidshaikh987/Travel_Portal):** Full-stack travel management app.
+- **[Doctor_Patient_chat](https://github.com/zaidshaikh987/Doctor_Patient_chat):** Real-time chat platform for healthcare.
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Technologies & Tools
 
-<div align="center">
+### 💻 Technologies
 
-<!-- Languages -->
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square" />
-<img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
 
-<!-- AI/ML -->
-<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" />
-<img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square" />
-<img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
-<img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square" />
+### 🛠️ Tools
 
-<!-- Data -->
-<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" />
-<img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square" />
-<img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white&style=flat-square" />
-<img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square" />
-<img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square" />
-
-<!-- Backend -->
-<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
-<img alt="Express" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" />
-
-<!-- Frontend -->
-<img alt="React" src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square" />
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
-<img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-18181B?logo=vercel&logoColor=white&style=flat-square" />
-
-<!-- Databases -->
-<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square" />
-
-<!-- DevOps -->
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" />
-
-<!-- Cloud -->
-<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
-<img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=flat-square" />
-<img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+</p>
 
 ---
 
