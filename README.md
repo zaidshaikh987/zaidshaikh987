@@ -43,8 +43,6 @@ This profile houses my advanced portfolio of AI/Data Science projects, full‑st
 - **[Auto-Insight](https://github.com/zaidshaikh987/Auto-Insight):** Automated analytics and insight generation using AI.
 - **[Vibe-Coder](https://github.com/zaidshaikh987/Vibe-Coder):** AI-powered collaborative coding and brainstorming.
 - **[Intell-Weave](https://github.com/zaidshaikh987/Intell-Weave):** Intelligent knowledge weaving and semantic search.
-- **[Travel_Portal](https://github.com/zaidshaikh987/Travel_Portal):** Full-stack travel management app.
-- **[Doctor_Patient_chat](https://github.com/zaidshaikh987/Doctor_Patient_chat):** Real-time chat platform for healthcare.
 
 ---
 
