@@ -34,8 +34,6 @@ I build production-grade AI features and full‑stack apps with a clean, fast UX
 - **[Auto-Insight](https://github.com/zaidshaikh987/Auto-Insight):** Automated analytics and insight generation using AI.
 - **[Vibe-Coder](https://github.com/zaidshaikh987/Vibe-Coder):** AI-powered collaborative coding and brainstorming.
 - **[Intell-Weave](https://github.com/zaidshaikh987/Intell-Weave):** Intelligent knowledge weaving and semantic search.
-- **[Travel_Portal](https://github.com/zaidshaikh987/Travel_Portal):** Full-stack travel management app.
-
 ---
 
 ## 🔧 Technologies & Tools
