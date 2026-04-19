@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Neon Cyberpunk -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Zaid%20Shaikh&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=700&lines=>+Initializing+Zaid.exe...;>+AI+Engineer+Loaded;>+Running+ML+Models...;>+Hackathons+Won+🏆;>+Status:+Building+the+Future" />
 </p>
 
 <div align="center">
