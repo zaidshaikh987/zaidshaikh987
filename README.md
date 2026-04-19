@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Zaid%20Shaikh&fontColor=1d1d1d&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header" />
+  <!-- Neon Cyberpunk -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Zaid%20Shaikh&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <div align="center">
