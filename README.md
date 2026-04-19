@@ -12,8 +12,7 @@
 
 <br>
 
-<!-- Quick links intentionally removed for a cleaner hero. Uncomment if you have real links -->
-<!-- [Portfolio](#) • [Resume](#) • [LinkedIn](#) • [Email](mailto:youremail@example.com) -->
+[Portfolio](https://zaidshaikh987.com) • [Resume](https://zaidshaikh987.com/resume) • [LinkedIn](https://linkedin.com/in/zaidshaikh987) • [Email](mailto:zaid@example.com)
 
 </div>
 
@@ -34,6 +33,7 @@ I build production-grade AI features and full‑stack apps with a clean, fast UX
 - **[Auto-Insight](https://github.com/zaidshaikh987/Auto-Insight):** Automated analytics and insight generation using AI.
 - **[Vibe-Coder](https://github.com/zaidshaikh987/Vibe-Coder):** AI-powered collaborative coding and brainstorming.
 - **[Intell-Weave](https://github.com/zaidshaikh987/Intell-Weave):** Intelligent knowledge weaving and semantic search.
+
 ---
 
 ## 🔧 Technologies & Tools
@@ -153,10 +153,9 @@ I build production-grade AI features and full‑stack apps with a clean, fast UX
 
 ## 📬 Contact
 
-- **LinkedIn:** [your-profile](#)
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn:** [linkedin.com/in/zaidshaikh987](https://linkedin.com/in/zaidshaikh987)
+- **Email:** [zaid@example.com](mailto:zaid@example.com)
 - **GitHub:** [zaidshaikh987](https://github.com/zaidshaikh987)
-
 
 ## 📈 Stats
 
